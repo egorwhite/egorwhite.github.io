@@ -1,0 +1,178 @@
+body {
+    font-family: Verdana sans-serif;
+}
+
+.container {
+    width: 1040px;
+    margin: 0 auto;
+    padding: 0;
+    padding: 0;
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.advantages {
+    background-color: #131313;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.chertekst {
+    color: white
+}
+
+.hernya {
+    color: dimgray
+}
+
+header {
+    background-color: #222;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer {
+    background-color: #131313
+}
+
+.top-menu {
+    display: flex;
+    list-style-type: none;
+    width: 800px;
+}
+
+.top-menu li {
+    padding: 10px
+}
+
+section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+     width: 195px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;      
+}
+
+.btn-yellow{
+    background-color: #feca30;
+}
+
+.btn-yellow:hover{
+    background-color: white;
+}
+
+.top-menu li{
+    padding: 15px;
+    color: #d4d4d4;
+}
+
+.top-menu li:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.copyrights {
+   margin-top: auto;
+   color: #555555;
+}
+table {
+    background-color: #222
+}
+
+.footer-menu {
+    color: white;
+    display: flex;
+    list-style: none;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.footer-submenu {
+    list-style: none;
+    margin-bottom: ;
+    margin-right: ;
+
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.columns {
+    flex-direction: column;
+}
+
+.shir200 {
+    width: 200px;
+}
+
+.shir400 {
+    width: 400px;
+}
+
+.timetable {
+    padding: 80px 0;
+    color: #ffffff;
+    background-color: #222222;
+}
+
+.jelt{
+    color: yellow;
+}
+
+.amddlylohov{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 60px;
+    
+}
+
+.dlyatd{
+    width: 25%
+}
+
+tr{
+    border-bottom: 1px solid #555555;
+}
+
+.table-header {
+   background-color: #111111; 
+}
+
+.fig{
+    padding: 1px;
+}         
+
+.trista{
+    width: 300px;
+    margin-right: 80px;
+}
+
+.margin{
+    margin-top: 20px
+}
+
+.maps{
+    padding-top: 60px;
+    padding-bottom: 60px
+}
