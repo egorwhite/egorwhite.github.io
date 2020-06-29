@@ -1,1 +1,1 @@
-# EgorSpaze_Z.github.io
+# egorwhite.github.io
